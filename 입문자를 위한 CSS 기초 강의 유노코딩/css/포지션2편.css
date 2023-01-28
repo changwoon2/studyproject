@@ -1,0 +1,7 @@
+.pos {
+    width: 200px;
+    height: 200px;
+    background: orange;
+    position: sticky;
+    top: 0px;
+  }

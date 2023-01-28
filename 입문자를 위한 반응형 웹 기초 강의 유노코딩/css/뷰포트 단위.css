@@ -1,0 +1,15 @@
+.vh {
+  margin: 0;
+  font-size: 40vh;
+}
+.vw {
+  font-size: 40vw;
+}
+
+.vmax {
+  font-size: 40vmax;
+}
+
+.vmin {
+  font-size: 40vmin;
+}

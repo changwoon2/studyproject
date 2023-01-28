@@ -1,0 +1,10 @@
+div {
+    border: 3px solid red;
+    display: inline;
+}
+span {
+    border-width: 5px;
+    border-style: dashed;
+    border-color: orchid;
+    display: block;
+}

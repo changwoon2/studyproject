@@ -1,0 +1,13 @@
+* {
+  font-family: 굴림, serif, monospace;
+}
+h1 {
+  font-size: 2rem;
+}
+p {
+  text-align: justify;
+  color: teal;
+}
+span {
+  font-size: 3rem;
+}

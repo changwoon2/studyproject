@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  /* flex-direction: column; */
+  flex-direction: column-reverse;
+  /* flex-direction: row-reverse;
+    flex-direction: row; */
+}
+.item {
+  width: 80px;
+  height: 80px;
+  background-color: brown;
+}

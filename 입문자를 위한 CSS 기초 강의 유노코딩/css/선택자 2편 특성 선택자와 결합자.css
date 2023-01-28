@@ -1,0 +1,6 @@
+[class*="te"] {
+  color: blue;
+}
+[id^="uni"] {
+  color: brown;
+}

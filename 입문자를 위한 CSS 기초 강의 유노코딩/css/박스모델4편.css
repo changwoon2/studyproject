@@ -1,0 +1,10 @@
+div {
+  box-sizing: border-box;
+  width: 500px;
+  height: 500px;
+  border: 1px solid red;
+  background-image: url(https://www.bing.com/images/blob?bcid=r8SdNjO5MDMEtw);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
